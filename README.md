@@ -3,12 +3,6 @@
 👩‍🎓 Studied Computer Science <br>
 🖥️ Currently leearning and perfecting my front-end skills<br>
 
-<div>
-  <a href="https://github.com//LZattera"></a>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LZattera&show_icons=true&theme=radical"/>
-<!--   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZattera&theme=radical"/> -->
-</div>
-
 <div style="display inline_block">
   <img align = center alt="LZ-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
   <img align = center alt="LZ-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
